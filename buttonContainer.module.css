@@ -1,0 +1,16 @@
+.ButtonContainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap:wrap;
+  background-color: rgb(137, 137, 168);
+}
+.button{
+  width: 45px;
+  height:40px;
+  padding: 5px;
+  color: black;
+  font-weight: 700;
+  background-color: gray;
+  display: inline-block;
+  margin: 10px;
+}

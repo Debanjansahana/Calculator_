@@ -1,0 +1,9 @@
+.Display{
+  margin: 10px;
+  width: 175px;
+  font-size: 25px;
+  border: 1px black solid;
+  border-radius: 5px;
+  background-color: rgb(137, 189, 189);
+  font-weight: 500;
+}
